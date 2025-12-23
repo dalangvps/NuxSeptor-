@@ -23,6 +23,7 @@ pkg install python git -y
 git clone https://github.com/dalangvps/NuxSeptor-
 cd NuxSeptor-
 pip install requests colorama
+python nux.py -u <url> --sut
 ```
 ### 💻 Kali Linux
 ```bash
@@ -30,4 +31,5 @@ sudo apt update && sudo apt install python3 python3-pip git -y
 git clone https://github.com/dalangvps/NuxSeptor-
 cd NuxSeptor
 pip3 install requests colorama
+python nux.py -u <url> --sut
 ```
