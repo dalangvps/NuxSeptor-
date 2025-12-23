@@ -34,4 +34,4 @@ pip3 install requests colorama
 python nux.py -u <url> --sut
 ```
 # WARNING
-Gunakan tools ini dengan bijak. Jika lu menggunakan tidak ada izin dari operator web gua terus lu berurusan dengan polisi gua gak tanggung jawab, Safe ethical
+Gunakan tools ini dengan bijak. Jika lu menggunakan tidak ada izin dari operator web terus lu berurusan dengan polisi gua gak tanggung jawab, Safe ethical
